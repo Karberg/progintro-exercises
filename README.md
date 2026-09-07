@@ -6,8 +6,5 @@ Useful links:
 1. *Italic* text.
 2. **Bold** Text.
 
-<<<<<<< HEAD
 Mega sejt joo
 wtf
-=======
->>>>>>> refs/remotes/origin/main
